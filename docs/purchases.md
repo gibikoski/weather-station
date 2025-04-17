@@ -3,7 +3,7 @@
 ## Status de Aquisição
 | **Componente** | **Quantidade** | **Custo (\~€)** | **Fonte** | **Status** | **Rastreamento** | **Notas** |
 | --- | --- | --- | --- | --- | --- | --- |
-| ESP32-C3 | 1 | 2,49-7,55 | AliExpress ([link](https://nl.aliexpress.com/item/1005006170575141.html)) | Pendente | - | Verificar vendedor >4,5 estrelas. |
+| ESP32-C3 | 1 | 2,49-7,55 | AliExpress ([link](https://nl.aliexpress.com/item/1005006170575141.html)) | Comprado | - | Verificar vendedor >4,5 estrelas. |
 | Bateria LiPo 3500 mAh | 1 | 8-17 | AliExpress (busca: “3500mAh LiPo”) | Pendente | - | Confirmar proteção contra sobrecarga. |
 | CN3791 (MPPT) | 1 | 3-8 | AliExpress (busca: “CN3791 MPPT”) | Pendente | - | - |
 | TP4056 | 1 | 1-2 | AliExpress (busca: “TP4056 charger”) | Pendente | - | - |
